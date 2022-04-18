@@ -1,30 +1,22 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "qwe",
-    "text": "qwe"
-  },
-  {
-    "title": "qwe",
-    "text": "qwe"
+    "title": "NewNote",
+    "text": "asdqwe",
+    "id": "689ad609-dc7c-4317-83c1-33386471b4c5"
   },
   {
     "title": "qeasd",
-    "text": "qweas"
+    "text": "qweasdwqe",
+    "id": "efcfcd92-2444-4d48-81c4-c93ff6b28ce8"
   },
   {
-    "title": "qeasd",
-    "text": "qweas"
+    "title": "note 2",
+    "text": "note 2",
+    "id": "12ca4fe3-ecab-41f0-8bcb-1b0973e6211b"
   },
   {
-    "title": "qeasd",
-    "text": "qweas"
-  },
-  {
-    "title": "sdfdfsf",
-    "text": "qweqwasdasd"
+    "title": "new note",
+    "text": "new test",
+    "id": "de0fd08a-389f-462e-a63d-2dfe5aa4e71b"
   }
 ]
