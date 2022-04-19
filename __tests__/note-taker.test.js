@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { createNewNote, findById } = require('../lib/note-taker');
+const { createNewNote, findById, deleteNote } = require('../lib/note-taker');
 const db = require('../db/db.json');
 
 jest.mock('fs');
@@ -32,3 +32,22 @@ test("finds note by id", () => {
 
    expect(result.title).toBe("Second note");
 });
+
+test("deletes note by id param", () => {
+   const testNotes = [
+      {
+         title: "First note",
+         text: "This is the first note",
+         id: "1"
+      },
+      {
+         title: "Second note",
+         text: "This is the second note",
+         id: "2"
+      }
+   ];
+
+   const result = deleteNote("1", testNotes);
+
+   expect(result.length).toEqual(1);
+})

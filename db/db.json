@@ -1,22 +1,12 @@
 [
   {
-    "title": "NewNote",
-    "text": "asdqwe",
-    "id": "689ad609-dc7c-4317-83c1-33386471b4c5"
+    "title": "First Note",
+    "text": "first text",
+    "id": "dcd0a33f-aa6a-435b-b2fc-c4d79908f18c"
   },
   {
-    "title": "qeasd",
-    "text": "qweasdwqe",
-    "id": "efcfcd92-2444-4d48-81c4-c93ff6b28ce8"
-  },
-  {
-    "title": "note 2",
-    "text": "note 2",
-    "id": "12ca4fe3-ecab-41f0-8bcb-1b0973e6211b"
-  },
-  {
-    "title": "new note",
-    "text": "new test",
-    "id": "de0fd08a-389f-462e-a63d-2dfe5aa4e71b"
+    "title": "second ntoe",
+    "text": "second text",
+    "id": "836db5e2-b429-4512-84bf-500a3ee737b3"
   }
 ]
