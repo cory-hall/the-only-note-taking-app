@@ -15,6 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
+// makes all api router methods use an api call
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
