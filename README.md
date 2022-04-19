@@ -2,7 +2,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This app is used to steamline note taking abilities that can be used on a constant basis.
+  This app is used to streamline note taking abilities that can be used on a constant basis. This project was designed to showcase my abilities and understanding of back-end coding. All of the public facing code was supplied by course staff, but all routing and back-end code was done by me.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,7 +13,8 @@
   - [License](#license)
 
   ## Installation
-  To run the code locally; clone, fork or download the zip for the repo. Or head straight to the live app.
+  To run the code locally; clone, fork or download the zip for the repo. Or head straight to the live app. <br>
+  # [Live App](https://the-only-note-taking-app.herokuapp.com/)
 
   ## Usage
   After getting the files on your machine, you will need to run "npm i" in your terminal to ensure you have all the required modules and libraries initialized from npm. After that type "npm start" into your terminal. This will start the local server, after this head over to your preferred browser and navigate to localhost:3001 to see the app in action, or simply follow the attached link for the live site.
@@ -27,7 +28,8 @@
   [Contact Me!](mailto:comebackcory1@gmail.com)
 
   ## Credits
-  Cory Hall
+  All back end code was written by Cory Hall
+  All front end code was supplied by Boot camp staff
 
   ## License
   Copyright 2022 Cory Hall
